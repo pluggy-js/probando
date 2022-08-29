@@ -1,0 +1,48 @@
+let movies = [
+  {
+    id: 1,
+    title: "Minions",
+    rating: 9.5,
+    awards: 1,
+    length: 120,
+    price: 500,
+    genre: "Animada",
+  },
+  {
+    id: 2,
+    title: "Bañeros 3",
+    rating: 3.6,
+    awards: 0,
+    length: 93,
+    price: 300,
+    genre: "Comedia",
+  },
+  {
+    id: 3,
+    title: "Terminator",
+    rating: 8.5,
+    awards: 1,
+    length: 140,
+    price: 500,
+    genre: "Accion",
+  },
+  {
+    id: 4,
+    title: "The Matrix",
+    rating: 9.7,
+    awards: 3,
+    length: 136,
+    price: 500,
+    genre: "Ciencia Ficcion",
+  },
+  {
+    id: 5,
+    title: "Marley y yo",
+    rating: 8.0,
+    awards: 2,
+    length: 121,
+    price: 200,
+    genre: "Drama",
+  },
+];
+module.exports = movies;
